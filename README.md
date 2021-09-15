@@ -1,0 +1,2 @@
+# Crypto
+An Tkinter Library based Desktop GUI application which  interactswiththeAPIoftheCryptoWebsiteandhelpsusertomanagetheir investment intheCryptocurrencyWorldbyinteractinginrealTimewiththeapp.
